@@ -1,0 +1,7 @@
+name,start,end
+erosion_iteration,60,60
+flat_field_size,20,40
+white_hat_size,40,40
+threshold_z,1,4
+binary_structure_size,3,11
+block_size,30,30
